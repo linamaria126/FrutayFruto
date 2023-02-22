@@ -12,4 +12,4 @@ Lina María Cardona, dentro de la clase: "Arquitectura EN CSS" del programa ONE-
 Abrir documento index.html
 
 # Estado del proyecto
-En desarrollo, solo se tiene la página de inicio hasta el momento.
+En desarrollo, se tiene la página de inicio hasta el momento.
