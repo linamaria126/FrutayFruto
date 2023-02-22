@@ -7,3 +7,6 @@ Presentación de página principal del proyecto organizada en css mediante selec
 
 # Proyecto realizado por:
 Lina María Cardona, dentro de la clase: "Arquitectura EN CSS" de Allura Latam
+
+# Como abrir el proyecto?:
+Abrir documento index.html
