@@ -1,4 +1,4 @@
-# FrutayFruto
+# Fruta y Fruto
 Página principal de portal para recetas saludables
 
 
