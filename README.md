@@ -1,4 +1,4 @@
-</em># Fruta y Fruto</em>
+</em> # Fruta y Fruto </em>
 
 # Descripción del Proyecto
 Página principal de portal para recetas saludables. Presentación de página principal del proyecto organizada en css mediante selectores de clase.
